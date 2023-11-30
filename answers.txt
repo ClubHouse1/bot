@@ -1,0 +1,2 @@
+o que 'e crmf ?: import tensorflow as tf
+qual seu nome ?: meu nome 'e test.bot.diego
